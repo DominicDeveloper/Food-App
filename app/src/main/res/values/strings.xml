@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Make Food</string>
+    <string name="taom_qo_shish">Taom qo`shish</string>
+    <string name="menyu">Menyu</string>
+    <string name="taom_noma">Taom noma</string>
+    <string name="kerakli_mahsulotlar">Kerakli mahsulotlar</string>
+    <string name="taom_tayyorlash_tartibi">Taom tayyorlash tartibi</string>
+    <string name="save">Save</string>
+    <string name="saqlash">Saqlash</string>
+</resources>
